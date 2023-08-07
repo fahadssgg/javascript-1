@@ -20,12 +20,6 @@ for (let i = 1; i <= 20; i++) {
 
 console.log("/////////////print////////////////////");
 
-// for (let j = 1; j <= 8; j++) {
-//   for (let a = 1; a <= m; a++) {
-//     console.log(a + "");
-//   }
-//   console.log("");
-// }
 let t = 8;
 for (let i = 1; i <= t; i++) {
   let aa = "";
